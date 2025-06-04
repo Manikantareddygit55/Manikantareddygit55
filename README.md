@@ -36,10 +36,10 @@ Cybersecurity enthusiast with a focus on penetration testing, network security, 
 - *[Project Name]* - Brief description (e.g., network analysis for security assessment)
 
 ## 📜 Certifications
+- Goolge cyber security certification
 - CompTIA Security+
 - Certified Ethical Hacker (CEH)
 - CISSP (Certified Information Systems Security Professional)
-
 ## 📬 Contact Me
 Feel free to connect with me!
 - 📧 Email: manikantareddyavula55@gmail.com
